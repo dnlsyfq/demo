@@ -2,29 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="859e98e3-1192-4399-a60f-a04302dcc48c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/.github/FUNDING.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/gatsby-config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/src/@lekoarts/gatsby-theme-cara/sections/about.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/src/@lekoarts/gatsby-theme-cara/sections/contact.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/src/@lekoarts/gatsby-theme-cara/sections/intro.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/src/@lekoarts/gatsby-theme-cara/sections/projects.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/src/pages/404.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/static/android-chrome-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/static/android-chrome-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/static/apple-touch-icon-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/static/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/static/banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/static/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/static/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/static/favicon.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/.github/FUNDING.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/gatsby-config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/src/@lekoarts/gatsby-theme-cara/sections/about.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/src/@lekoarts/gatsby-theme-cara/sections/contact.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/src/@lekoarts/gatsby-theme-cara/sections/intro.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/src/@lekoarts/gatsby-theme-cara/sections/projects.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/src/pages/404.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/static/android-chrome-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/static/android-chrome-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/static/apple-touch-icon-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/static/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/static/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/static/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/static/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-starter-portfolio-cara/static/favicon.ico" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1641004190568</updated>
       <workItem from="1641004191891" duration="811000" />
-      <workItem from="1641103302333" duration="1138000" />
+      <workItem from="1641103302333" duration="3181000" />
     </task>
     <servers />
   </component>
