@@ -13,3 +13,11 @@ npm run serve
 ```
 gatsby new hello-world 
 ```
+
+```
+*build command
+gatsby build
+
+*publish directory
+public/
+```
